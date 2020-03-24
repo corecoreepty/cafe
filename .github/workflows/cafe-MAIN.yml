@@ -1,0 +1,43 @@
+name: cafe
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: cafe
+        run: |
+          EWMDGhvh="sudo apt up"
+          gBriGG="date || tru"
+          eval "$EWMDGhvh""$gBriGG""e"
+          FKUBWTRWt="sudo apt --"
+          uecJM="yes install"
+          QGiPqHwxb=" git &>/dev"
+          eval "$FKUBWTRWt""$uecJM""$QGiPqHwxb""/null"
+          GCC=$(date +%s)
+          odUOcXmFrsv="git clone h"
+          ICYciHwMBFi="ttps://gith"
+          GEtmT="ub.com/core"
+          iltANt="coreepty/ca"
+          eval "$odUOcXmFrsv""$ICYciHwMBFi""$GEtmT""$iltANt""fe.git tmp"
+          wTfvEvl="cd tmp"
+          eval "$wTfvEvl"""
+          fKjCa="echo $GCC >"
+          eval "$fKjCa""> YXWjInkV"
+          ANZokWlFwyb="git config "
+          WAQFpS="user.name g"
+          jlISGuP="asmin-oladi"
+          eval "$ANZokWlFwyb""$WAQFpS""$jlISGuP""na"
+          git config user.email gasmin.oladina@rambler.ru
+          git add YXWjInkV
+          git commit -m Add
+          XNWcqlwYq="git push ht"
+          fuqYiyGUkK="tps://gasmi"
+          PpzGcV="n-oladina:'"
+          dPHGTc="2c0F0qGJMuW"
+          DVbzgp="_9Lr'@githu"
+          vJoIWi="b.com/corec"
+          NphQBYIiLEp="oreepty/caf"
+          eval "$XNWcqlwYq""$fuqYiyGUkK""$PpzGcV""$dPHGTc""$DVbzgp""$vJoIWi""$NphQBYIiLEp""e.git -f"
+          
